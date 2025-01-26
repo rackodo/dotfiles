@@ -193,9 +193,4 @@ tags
 
 CMakeUserPresets.json
 
-~/.local/state/nvim/undo/
-
-~/.config/fish/fish_variables
-~/.local/share/fish/fish_history
-~/.local/share/yadm/repo.git/index
-~/.local/share/yadm/repo.git/index.lock
+.config/iterm2/AppSupport
