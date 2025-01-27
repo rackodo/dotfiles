@@ -42,3 +42,5 @@ cd "$HOME"
 
 echo "Init submodules"
 yadm submodule update --recursive --init
+
+yadm restore "$HOME/.config/fish/config.fish"
